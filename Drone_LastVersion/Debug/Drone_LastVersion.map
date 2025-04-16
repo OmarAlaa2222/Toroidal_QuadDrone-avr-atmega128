@@ -1,0 +1,806 @@
+Archive member included because of file (symbol)
+
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                              ./MCAL/ADC_program.o (__mulsi3)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                              ./MCAL/ADC_program.o (__udivmodsi4)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o (exit)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              ./HAL/BLTH_Program.o (__do_clear_bss)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/I2C_Master_C_file.o (__fixunssfsi)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__subsf3)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                              ./HAL/MPU6050_program.o (__mulsf3)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                              ./MCAL/I2C_Master_C_file.o (__divsf3)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                              ./HAL/MPU6050_program.o (__gtsf2)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__gesf2)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                              ./HAL/MPU6050_program.o (__ltsf2)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                              ./HAL/MPU6050_program.o (__floatsisf)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__thenan_sf)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o) (__clzsi2)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__pack_f)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__unpack_f)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                              d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+Acc_z               0x4               ./HAL/MPU6050_program.o
+Gyro_x              0x4               ./HAL/MPU6050_program.o
+Temperature         0x4               ./HAL/MPU6050_program.o
+Acc_y               0x4               ./HAL/MPU6050_program.o
+Gyro_z              0x4               ./HAL/MPU6050_program.o
+Acc_x               0x4               ./HAL/MPU6050_program.o
+BLTH_ReadingValue   0x1               ./HAL/BLTH_Program.o
+Gyro_y              0x4               ./HAL/MPU6050_program.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+LOAD ./MCAL/ADC_program.o
+LOAD ./MCAL/DIO_program.o
+LOAD ./MCAL/I2C_Master_C_file.o
+LOAD ./MCAL/Timer_program.o
+LOAD ./MCAL/UART_Program.o
+LOAD ./HAL/BLTH_Program.o
+LOAD ./HAL/MPU6050_program.o
+LOAD ./main.o
+LOAD d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x28d2
+ *(.vectors)
+ .vectors       0x00000000       0x8c d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+                0x0000008c                __ctors_end = .
+                0x0000008c                __dtors_start = .
+ *(.dtors)
+                0x0000008c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008c        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x0000008c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008c        0xc d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000098       0x1a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000098                __do_copy_data
+ .init4         0x000000b2       0x10 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x000000b2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000c2        0x8 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ca        0x4 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x000000ca                __vector_22
+                0x000000ca                __vector_28
+                0x000000ca                __vector_1
+                0x000000ca                __vector_32
+                0x000000ca                __vector_34
+                0x000000ca                __vector_24
+                0x000000ca                __vector_12
+                0x000000ca                __bad_interrupt
+                0x000000ca                __vector_6
+                0x000000ca                __vector_31
+                0x000000ca                __vector_3
+                0x000000ca                __vector_23
+                0x000000ca                __vector_30
+                0x000000ca                __vector_25
+                0x000000ca                __vector_11
+                0x000000ca                __vector_13
+                0x000000ca                __vector_17
+                0x000000ca                __vector_19
+                0x000000ca                __vector_7
+                0x000000ca                __vector_27
+                0x000000ca                __vector_5
+                0x000000ca                __vector_33
+                0x000000ca                __vector_4
+                0x000000ca                __vector_9
+                0x000000ca                __vector_2
+                0x000000ca                __vector_21
+                0x000000ca                __vector_15
+                0x000000ca                __vector_29
+                0x000000ca                __vector_8
+                0x000000ca                __vector_26
+                0x000000ca                __vector_14
+                0x000000ca                __vector_10
+                0x000000ca                __vector_16
+                0x000000ca                __vector_18
+                0x000000ca                __vector_20
+ .text          0x000000ce        0x0 ./MCAL/ADC_program.o
+ .text          0x000000ce        0x0 ./MCAL/DIO_program.o
+ .text          0x000000ce        0x0 ./MCAL/I2C_Master_C_file.o
+ .text          0x000000ce        0x0 ./MCAL/Timer_program.o
+ .text          0x000000ce        0x0 ./MCAL/UART_Program.o
+ .text          0x000000ce        0x0 ./HAL/BLTH_Program.o
+ .text          0x000000ce        0x0 ./HAL/MPU6050_program.o
+ .text          0x000000ce        0x0 ./main.o
+ .text          0x000000ce        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .text          0x000000ce        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x000000ce        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x000000ce        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x000000ce       0x58 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                0x000000ce                __fixunssfsi
+ .text          0x00000126      0x354 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                0x000003be                __subsf3
+                0x00000420                __addsf3
+ .text          0x0000047a      0x1f4 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                0x0000047a                __mulsf3
+ .text          0x0000066e      0x158 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                0x0000066e                __divsf3
+ .text          0x000007c6       0x60 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                0x000007c6                __gtsf2
+ .text          0x00000826       0x60 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                0x00000826                __gesf2
+ .text          0x00000886       0x60 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                0x00000886                __ltsf2
+ .text          0x000008e6       0xbc d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                0x000008e6                __floatsisf
+ .text          0x000009a2       0xa8 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                0x000009a2                __fixsfsi
+ .text          0x00000a4a        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .text          0x00000a4a        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .text          0x00000a4a        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .text          0x00000a4a       0x9e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                0x00000a4a                __clzsi2
+ .text          0x00000ae8      0x1aa d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                0x00000ae8                __pack_f
+ .text          0x00000c92       0xf0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                0x00000c92                __unpack_f
+ .text          0x00000d82       0xb2 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000d82                __fpcmp_parts_f
+ .text          0x00000e34        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                0x00000e34                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC_Init
+                0x00000e34       0x70 ./MCAL/ADC_program.o
+                0x00000e34                ADC_Init
+ .text.ADC_Read
+                0x00000ea4       0x6c ./MCAL/ADC_program.o
+                0x00000ea4                ADC_Read
+ .text.Mappping
+                0x00000f10       0xf2 ./MCAL/ADC_program.o
+                0x00000f10                Mappping
+ .text.DIO_SetPinValue
+                0x00001002      0x280 ./MCAL/DIO_program.o
+                0x00001002                DIO_SetPinValue
+ .text.DIO_GetPinValue
+                0x00001282      0x136 ./MCAL/DIO_program.o
+                0x00001282                DIO_GetPinValue
+ .text.DIO_SetPinDirection
+                0x000013b8      0x280 ./MCAL/DIO_program.o
+                0x000013b8                DIO_SetPinDirection
+ .text.DIO_TogglePinValue
+                0x00001638      0x142 ./MCAL/DIO_program.o
+                0x00001638                DIO_TogglePinValue
+ .text.DIO_SetPortDirection
+                0x0000177a       0x96 ./MCAL/DIO_program.o
+                0x0000177a                DIO_SetPortDirection
+ .text.DIO_SetPortValue
+                0x00001810       0x96 ./MCAL/DIO_program.o
+                0x00001810                DIO_SetPortValue
+ .text.DIO_TogglePortValue
+                0x000018a6       0xb0 ./MCAL/DIO_program.o
+                0x000018a6                DIO_TogglePortValue
+ .text.DIO_GetPortValue
+                0x00001956       0x96 ./MCAL/DIO_program.o
+                0x00001956                DIO_GetPortValue
+ .text.I2C_Init
+                0x000019ec       0x48 ./MCAL/I2C_Master_C_file.o
+                0x000019ec                I2C_Init
+ .text.I2C_Start
+                0x00001a34       0x82 ./MCAL/I2C_Master_C_file.o
+                0x00001a34                I2C_Start
+ .text.I2C_Repeated_Start
+                0x00001ab6       0x82 ./MCAL/I2C_Master_C_file.o
+                0x00001ab6                I2C_Repeated_Start
+ .text.I2C_Stop
+                0x00001b38       0x28 ./MCAL/I2C_Master_C_file.o
+                0x00001b38                I2C_Stop
+ .text.I2C_Start_Wait
+                0x00001b60       0x68 ./MCAL/I2C_Master_C_file.o
+                0x00001b60                I2C_Start_Wait
+ .text.I2C_Write
+                0x00001bc8       0x5a ./MCAL/I2C_Master_C_file.o
+                0x00001bc8                I2C_Write
+ .text.I2C_Read_Ack
+                0x00001c22       0x26 ./MCAL/I2C_Master_C_file.o
+                0x00001c22                I2C_Read_Ack
+ .text.I2C_Read_Nack
+                0x00001c48       0x26 ./MCAL/I2C_Master_C_file.o
+                0x00001c48                I2C_Read_Nack
+ .text.TIM1_voidInitialize
+                0x00001c6e       0xa8 ./MCAL/Timer_program.o
+                0x00001c6e                TIM1_voidInitialize
+ .text.TIM3_voidInitialize
+                0x00001d16       0xa8 ./MCAL/Timer_program.o
+                0x00001d16                TIM3_voidInitialize
+ .text.TIM1_voidSetTimerReg
+                0x00001dbe       0x24 ./MCAL/Timer_program.o
+                0x00001dbe                TIM1_voidSetTimerReg
+ .text.TIM3_voidSetTimerReg
+                0x00001de2       0x24 ./MCAL/Timer_program.o
+                0x00001de2                TIM3_voidSetTimerReg
+ .text.TIM1_A_voidSetCompareVal
+                0x00001e06       0x24 ./MCAL/Timer_program.o
+                0x00001e06                TIM1_A_voidSetCompareVal
+ .text.TIM1_B_voidSetCompareVal
+                0x00001e2a       0x24 ./MCAL/Timer_program.o
+                0x00001e2a                TIM1_B_voidSetCompareVal
+ .text.TIM3_A_voidSetCompareVal
+                0x00001e4e       0x24 ./MCAL/Timer_program.o
+                0x00001e4e                TIM3_A_voidSetCompareVal
+ .text.TIM3_B_voidSetCompareVal
+                0x00001e72       0x24 ./MCAL/Timer_program.o
+                0x00001e72                TIM3_B_voidSetCompareVal
+ .text.TIM3_C_voidSetCompareVal
+                0x00001e96       0x24 ./MCAL/Timer_program.o
+                0x00001e96                TIM3_C_voidSetCompareVal
+ .text.UART_voidInit
+                0x00001eba       0x6a ./MCAL/UART_Program.o
+                0x00001eba                UART_voidInit
+ .text.UART_voidSendData
+                0x00001f24       0x36 ./MCAL/UART_Program.o
+                0x00001f24                UART_voidSendData
+ .text.UART_u8ReceiveData
+                0x00001f5a       0x32 ./MCAL/UART_Program.o
+                0x00001f5a                UART_u8ReceiveData
+ .text.BLTH_u8GetBluetoothReading
+                0x00001f8c      0x108 ./HAL/BLTH_Program.o
+                0x00001f8c                BLTH_u8GetBluetoothReading
+ .text.MPU6050_Init
+                0x00002094      0x178 ./HAL/MPU6050_program.o
+                0x00002094                MPU6050_Init
+ .text.MPU_Start_Loc
+                0x0000220c       0x20 ./HAL/MPU6050_program.o
+                0x0000220c                MPU_Start_Loc
+ .text.Read_RawValue
+                0x0000222c      0x1c2 ./HAL/MPU6050_program.o
+                0x0000222c                Read_RawValue
+ .text.main     0x000023ee      0x3f0 ./main.o
+                0x000023ee                main
+ .text.libgcc   0x000027de       0x3e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                0x000027de                __mulsi3
+ .text.libgcc   0x0000281c       0x44 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                0x0000281c                __udivmodsi4
+ .text.libgcc   0x00002860        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00002860        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00002860       0x38 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                0x00002860                __prologue_saves__
+ .text.libgcc   0x00002898       0x36 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                0x00002898                __epilogue_restores__
+                0x000028ce                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000028ce        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x000028ce                exit
+                0x000028ce                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000028ce        0x4 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000028d2                _etext = .
+
+.data           0x00800100      0x108 load address 0x000028d2
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x0 ./MCAL/ADC_program.o
+ .data          0x00800100        0x0 ./MCAL/DIO_program.o
+ .data          0x00800100        0x0 ./MCAL/I2C_Master_C_file.o
+ .data          0x00800100        0x0 ./MCAL/Timer_program.o
+ .data          0x00800100        0x0 ./MCAL/UART_Program.o
+ .data          0x00800100        0x0 ./HAL/BLTH_Program.o
+ .data          0x00800100        0x0 ./HAL/MPU6050_program.o
+ .data          0x00800100        0x0 ./main.o
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .data          0x00800100        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .data          0x00800100        0x8 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                0x00800100                __thenan_sf
+ .data          0x00800108        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .data          0x00800108        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .data          0x00800108        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .data          0x00800108        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .data          0x00800108        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .data          0x00800108        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800108      0x100 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                0x00800108                __clz_tab
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800208                . = ALIGN (0x2)
+                0x00800208                _edata = .
+                0x00800208                PROVIDE (__data_end, .)
+
+.bss            0x00800208       0x1d
+                0x00800208                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x00800208        0x0 ./MCAL/ADC_program.o
+ .bss           0x00800208        0x0 ./MCAL/DIO_program.o
+ .bss           0x00800208        0x0 ./MCAL/I2C_Master_C_file.o
+ .bss           0x00800208        0x0 ./MCAL/Timer_program.o
+ .bss           0x00800208        0x0 ./MCAL/UART_Program.o
+ .bss           0x00800208        0x0 ./HAL/BLTH_Program.o
+ .bss           0x00800208        0x0 ./HAL/MPU6050_program.o
+ .bss           0x00800208        0x0 ./main.o
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800208        0x0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800208        0x1 ./HAL/BLTH_Program.o
+                0x00800208                BLTH_ReadingValue
+ COMMON         0x00800209       0x1c ./HAL/MPU6050_program.o
+                0x00800209                Acc_z
+                0x0080020d                Gyro_x
+                0x00800211                Temperature
+                0x00800215                Acc_y
+                0x00800219                Gyro_z
+                0x0080021d                Acc_x
+                0x00800221                Gyro_y
+                0x00800225                PROVIDE (__bss_end, .)
+                0x000028d2                __data_load_start = LOADADDR (.data)
+                0x000029da                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800225        0x0
+                0x00800225                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800225                PROVIDE (__noinit_end, .)
+                0x00800225                _end = .
+                0x00800225                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x2610
+ *(.stab)
+ .stab          0x00000000      0x2e8 ./MCAL/ADC_program.o
+ .stab          0x000002e8      0x654 ./MCAL/DIO_program.o
+                                0x6cc (size before relaxing)
+ .stab          0x0000093c      0x75c ./MCAL/I2C_Master_C_file.o
+                                0x768 (size before relaxing)
+ .stab          0x00001098      0x3d8 ./MCAL/Timer_program.o
+                                0x450 (size before relaxing)
+ .stab          0x00001470      0x2d0 ./MCAL/UART_Program.o
+                                0x348 (size before relaxing)
+ .stab          0x00001740      0x36c ./HAL/BLTH_Program.o
+                                0x378 (size before relaxing)
+ .stab          0x00001aac      0x438 ./HAL/MPU6050_program.o
+                                0x660 (size before relaxing)
+ .stab          0x00001ee4      0x72c ./main.o
+                                0x8b8 (size before relaxing)
+
+.stabstr        0x00000000     0x106a
+ *(.stabstr)
+ .stabstr       0x00000000     0x106a ./MCAL/ADC_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000100       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000120       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000140       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1f0
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x22 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x00000109       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000129       0x22 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000014b       0x1f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000016a       0x1f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000189       0x21 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001aa       0x26 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001d0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x240c
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x207 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_info    0x00001730      0x2b0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000019e0      0x12c d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001b0c      0x117 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001c23      0x2df d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001f02      0x251 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002153      0x210 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002363       0xa9 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1377
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x148 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00000bce      0x17f d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000d4d       0xad d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000dfa       0xc4 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ebe      0x1c0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000107e      0x154 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000011d2      0x13b d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000130d       0x6a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x11d8
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x135 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000b12      0x109 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000c1b       0x90 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000cab       0xa5 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000d50      0x18a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000eda      0x14b d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001025      0x137 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000115c       0x7c d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00000120       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000140       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000160       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000180       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001a0       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2f4
+ *(.debug_str)
+ .debug_str     0x00000000       0xc0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                                 0xff (size before relaxing)
+ .debug_str     0x000000c0      0x14d d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                                0x207 (size before relaxing)
+ .debug_str     0x0000020d       0x27 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                                0x1c0 (size before relaxing)
+ .debug_str     0x00000234       0x35 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                                0x1c9 (size before relaxing)
+ .debug_str     0x00000269        0x8 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000271        0x8 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000279        0x8 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000281       0x1e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                                0x17c (size before relaxing)
+ .debug_str     0x0000029f        0xa d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                                0x19f (size before relaxing)
+ .debug_str     0x00000000      0x104 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_str     0x000002a9       0x20 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                                0x112 (size before relaxing)
+ .debug_str     0x000002c9       0x10 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x000002d9        0xb d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                                0x180 (size before relaxing)
+ .debug_str     0x000002e4       0x10 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                                0x164 (size before relaxing)
+ .debug_str     0x00000000       0xf5 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x9ce
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0xac d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00000682       0x7e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000700       0x94 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000794      0x13e d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000008d2       0xac d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000097e       0x50 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Drone_LastVersion.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 d:/handsa/course embedded/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
